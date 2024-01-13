@@ -2,6 +2,8 @@
 Shujaaz AI is a pioneering conversational AI project designed to empower and support African societies in solving their unique challenges and addressing pressing issues
 
 Roadmap for Building Shujaaz AI: Empowering African Societies through Conversation
+
+
 Phase 1: Foundation (Months 1-3)
 
 Concept Refinement: Clearly define the goals, target audiences, and functionalities for each Shujaaz AI character. Conduct thorough user research to understand needs and preferences.
